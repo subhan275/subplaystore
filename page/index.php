@@ -97,7 +97,7 @@ require "./function.php";
          <div class="card" style="width: 18rem;">
           <img src="<?= $link ?>asset/FF_logo.png" class="card-img-top" alt="gambar1">
           <div class="card-body">
-            <h5 class="card-title">FREE FIRE</h5>
+            <h5 class="card-title">FREE FIRe</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
           </div>
