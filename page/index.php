@@ -71,17 +71,9 @@ require "./function.php";
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-<<<<<<< HEAD
   </div>
   <!--  -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
-=======
-    <!-- carousel done -->
-  <script 
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" 
-    crossorigin="anonymous">
->>>>>>> 5fe0ac6a7e28682b012cb0af91b70d67eff8396c
   </script>
 </body>
 
