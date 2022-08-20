@@ -84,7 +84,7 @@ require "./function.php";
     </div>
     <div class="row">
       <div class="col-sm-auto">
-        <div class="card-game" style="width: 14rem;">
+        <div class="card" style="width: 14rem;">
           <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-rounded mx-auto d-block mt-4" alt="mlbb">
           <div class="card-body">
             <h5 class="card-title">MOBILE LEGEDS</h5>
