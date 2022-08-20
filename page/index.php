@@ -87,9 +87,9 @@ require "./function.php";
         <div class="card" style="width: 14rem;">
           <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-rounded mx-auto d-block mt-4" alt="mlbb">
           <div class="card-body">
-            <h5 class="card-title">MOBILE LEGEDS (FAST)</h5>
-            <p class="card-text mg-auto">proses 1-10 menit</p>
-            <a href="#" class="btn btn-primary">Top Up</a>
+           <center><h5 class="card-title-game">MOBILE LEGEDS (FAST)</h5>
+            <p class="card-game-text">proses 1-10 menit</p>
+            <a href="#" class="btn btn-primary">Top Up</a></center>
           </div>
         </div>
       </div>
@@ -97,9 +97,9 @@ require "./function.php";
         <div class="card" style="width: 14rem;">
           <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-rounded mx-auto d-block mt-4" alt="mlbb">
           <div class="card-body">
-            <h5 class="card-title">MOBILE LEGEDS (SLOW)</h5>
-            <p class="card-text mg-auto">proses 1 X 24 jam</p>
-            <a href="#" class="btn btn-primary">Top Up</a>
+            <center><h5 class="card-title-game">MOBILE LEGEDS (SLOW)</h5>
+            <p class="card-game-text">proses 1 X 24 jam</p>
+            <a href="#" class="btn btn-primary">Top Up</a></center>
           </div>
         </div>
       </div>
@@ -107,9 +107,9 @@ require "./function.php";
          <div class="card" style="width: 14rem;">
           <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-rounded mx-auto d-block mt-4" alt="pubgm">
           <div class="card-body">
-            <h5 class="card-title">PUBG MOBILE</h5>
-            <p class="card-text">testing.</p>
-            <a href="#" class="btn btn-primary">Top Up</a>
+            <center><h5 class="card-title-game">PUBG MOBILE</h5>
+            <p class="card-game-text">testing.</p>
+            <a href="#" class="btn btn-primary">Top Up</a></center>
           </div>
         </div>
       </div>
@@ -117,9 +117,9 @@ require "./function.php";
          <div class="card" style="width: 14rem;">
           <img src="<?= $link ?>asset/FF_logo.png" class="card-img-rounded mx-auto d-block mt-4" alt="ff">
           <div class="card-body">
-            <h5 class="card-title">FREE FIRE</h5>
-            <p class="card-text">testing.</p>
-            <a href="#" class="btn btn-primary">Top Up</a>
+            <center><h5 class="card-title-game">FREE FIRE</h5>
+            <p class="card-game-text">testing.</p>
+            <a href="#" class="btn btn-primary">Top Up</a></center>
           </div>
         </div>
       </div>

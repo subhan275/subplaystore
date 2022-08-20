@@ -8,3 +8,19 @@
 .card-img-rounded{
     border-radius: 20px;
 }
+
+.card{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-title-game{
+    font-family:  'Silkscreen', cursive;
+    font-size: 14px;
+}
+
+.card-game-text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
