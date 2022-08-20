@@ -2,4 +2,10 @@
 
 .font-subplay{
     font-family: 'Silkscreen', cursive;
+    font-size: larger;
 }
+
+.card-img-rounded{
+    border-radius: 20px;
+}
+

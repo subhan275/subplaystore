@@ -83,33 +83,33 @@ require "./function.php";
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4">
-        <div class="card" style="width: 18rem;">
-          <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-top" alt="gambar1">
+      <div class="col-sm-auto">
+        <div class="card-game" style="width: 14rem;">
+          <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-rounded mx-auto d-block mt-4" alt="mlbb">
           <div class="card-body">
             <h5 class="card-title">MOBILE LEGEDS</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <p class="card-text">testing.</p>
+            <a href="#" class="btn btn-primary">Top Up</a>
           </div>
         </div>
       </div>
-      <div class="col-md-4">
-         <div class="card" style="width: 18rem;">
-          <img src="<?= $link ?>asset/FF_logo.png" class="card-img-top" alt="gambar1">
+      <div class="col-sm-auto">
+         <div class="card" style="width: 14rem;">
+          <img src="<?= $link ?>asset/FF_logo.png" class="card-img-rounded mx-auto d-block mt-4" alt="ff">
           <div class="card-body">
-            <h5 class="card-title">FREE FIRe</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">FREE FIRE</h5>
+            <p class="card-text">testing.</p>
+            <a href="#" class="btn btn-primary">Top Up</a>
           </div>
         </div>
       </div>
-      <div class="col-md-4">
-         <div class="card" style="width: 18rem;">
-          <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-top" alt="gambar1">
+      <div class="col-sm-auto">
+         <div class="card" style="width: 14rem;">
+          <img src="<?= $link ?>asset/mlbb_logo.jpg" class="card-img-rounded mx-auto d-block mt-4" alt="pubgm">
           <div class="card-body">
             <h5 class="card-title">PUBG MOBILE</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <p class="card-text">testing.</p>
+            <a href="#" class="btn btn-primary">Top Up</a>
           </div>
         </div>
       </div>
